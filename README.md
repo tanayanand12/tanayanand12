@@ -1,7 +1,9 @@
 ## Tanay Anand
 
 **Applied AI Researcher · Agentic Systems · RL Workflows**
+
 Data Scientist, AI/ML Engineering @ R Systems International
+
 B.Tech, AI & Data Science · IIT Jodhpur (2024)
 
 📧 tanay.anand12@gmail.com · [LinkedIn](https://linkedin.com/in/tanay-anand-702555229) · 🌐 tanayanand12.github.io *(in progress)*
